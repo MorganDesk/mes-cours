@@ -4,7 +4,19 @@
     <title></title>
     <link></link>
     <description></description>
-    <lastBuildDate>Wed, 10 Jun 2026 17:23:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 18:04:31 +0200</lastBuildDate>
+    <item>
+      <title>Equations du premier degré</title>
+      <link>/modules/equations-du-premier-degré</link>
+      <pubDate>Wed, 10 Jun 2026 17:58:28 +0200</pubDate>
+      <guid isPermaLink="true">/modules/equations-du-premier-degré</guid>
+    </item>
+    <item>
+      <title>Distributivité simple</title>
+      <link>/modules/distributivité-simple</link>
+      <pubDate>Wed, 10 Jun 2026 17:42:44 +0200</pubDate>
+      <guid isPermaLink="true">/modules/distributivité-simple</guid>
+    </item>
     <item>
       <title>Maths Morgan</title>
       <link>/</link>
@@ -33,18 +45,18 @@
       <guid isPermaLink="true">/modules/plus-petit-multiple-commun-(ppcm)</guid>
     </item>
     <item>
-      <title>Plus Grand Diviseur Commun (PGCD)</title>
-      <link>/modules/plus-grand-diviseur-commun-(pgcd)</link>
-      <description>Savoir calculer le PGCD de deux nombres et résoudre des problèmes de partage.</description>
-      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
-      <guid isPermaLink="true">/modules/plus-grand-diviseur-commun-(pgcd)</guid>
-    </item>
-    <item>
       <title>Nombres premiers</title>
       <link>/modules/nombres-premiers</link>
       <description>Connaître les nombres premiers.</description>
       <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
       <guid isPermaLink="true">/modules/nombres-premiers</guid>
+    </item>
+    <item>
+      <title>Plus Grand Diviseur Commun (PGCD)</title>
+      <link>/modules/plus-grand-diviseur-commun-(pgcd)</link>
+      <description>Savoir calculer le PGCD de deux nombres et résoudre des problèmes de partage.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/plus-grand-diviseur-commun-(pgcd)</guid>
     </item>
     <item>
       <title>Multiple et diviseur</title>
@@ -89,11 +101,11 @@
       <guid isPermaLink="true">/modules/fonctions-affines</guid>
     </item>
     <item>
-      <title>Concept de fonction</title>
-      <link>/modules/concept-de-fonction</link>
-      <description>Comprendre ce qu&#39;est une fonction et les notations liées.</description>
+      <title>Critères de divisibilité</title>
+      <link>/modules/critères-de-divisibilité</link>
+      <description>Connaître et savoir utiliser les critères de divisibilités inférieurs à 10.</description>
       <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
-      <guid isPermaLink="true">/modules/concept-de-fonction</guid>
+      <guid isPermaLink="true">/modules/critères-de-divisibilité</guid>
     </item>
     <item>
       <title>Déterminer l’équation d’une droite</title>
@@ -130,11 +142,11 @@
       <guid isPermaLink="true">/modules/distributivité-double</guid>
     </item>
     <item>
-      <title>Critères de divisibilité</title>
-      <link>/modules/critères-de-divisibilité</link>
-      <description>Connaître et savoir utiliser les critères de divisibilités inférieurs à 10.</description>
+      <title>Concept de fonction</title>
+      <link>/modules/concept-de-fonction</link>
+      <description>Comprendre ce qu&#39;est une fonction et les notations liées.</description>
       <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
-      <guid isPermaLink="true">/modules/critères-de-divisibilité</guid>
+      <guid isPermaLink="true">/modules/concept-de-fonction</guid>
     </item>
     <item>
       <title>Antécédant et image</title>
