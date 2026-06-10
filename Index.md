@@ -3,6 +3,7 @@ title: Maths Morgan
 description: Ressources pour apprendre les mathématiques.
 draft: false
 ---
+# index
 Ce site est optimisé pour une utilisation sur ordinateur mais reste fonctionnel sur téléphone et tablette.
 
 Sur ordinateur, passer votre curseur sur un lien pour avoir un aperçu de la page à laquelle il mène.
