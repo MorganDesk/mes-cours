@@ -30,7 +30,7 @@ jobs:
           chmod +x kiln
 
       - name: Build Site
-        run: ./kiln generate --url "https://morgandesk.github.io/mes-cours"
+        run: ./kiln generate --input . --url "https://morgandesk.github.io/mes-cours"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
