@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Wed, 10 Jun 2026 17:23:42 +0200</lastBuildDate>
+    <item>
+      <title>Maths Morgan</title>
+      <link>/</link>
+      <description>Ressources pour apprendre les mathématiques.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/</guid>
+    </item>
+    <item>
+      <title>{{TITLE}}</title>
+      <link>/templates/template-module</link>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/templates/template-module</guid>
+    </item>
+    <item>
+      <title>Représentations d&#39;une fonction</title>
+      <link>/modules/représentations-d&#39;une-fonction</link>
+      <description>Savoir représenter une fonction et utiliser les représentations d&#39;une fonction.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/représentations-d&#39;une-fonction</guid>
+    </item>
+    <item>
+      <title>Plus Petit Multiple Commun (PPCM)</title>
+      <link>/modules/plus-petit-multiple-commun-(ppcm)</link>
+      <description>Savoir calculer le PPCM de deux nombres et résoudre des problèmes de périodicité.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/plus-petit-multiple-commun-(ppcm)</guid>
+    </item>
+    <item>
+      <title>Plus Grand Diviseur Commun (PGCD)</title>
+      <link>/modules/plus-grand-diviseur-commun-(pgcd)</link>
+      <description>Savoir calculer le PGCD de deux nombres et résoudre des problèmes de partage.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/plus-grand-diviseur-commun-(pgcd)</guid>
+    </item>
+    <item>
+      <title>Nombres premiers</title>
+      <link>/modules/nombres-premiers</link>
+      <description>Connaître les nombres premiers.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/nombres-premiers</guid>
+    </item>
+    <item>
+      <title>Multiple et diviseur</title>
+      <link>/modules/multiple-et-diviseur</link>
+      <description>Connaître le vocabulaire multiple et diviseur.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/multiple-et-diviseur</guid>
+    </item>
+    <item>
+      <title>Identités remarquables</title>
+      <link>/modules/identités-remarquables</link>
+      <description>Connaître les identités remarquables et les utiliser pour développer et factoriser une expression littérale.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/identités-remarquables</guid>
+    </item>
+    <item>
+      <title>Fraction irréductible</title>
+      <link>/modules/fraction-irréductible</link>
+      <description>Utiliser la décomposition en produit de facteurs premiers pour simplifier une fraction.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/fraction-irréductible</guid>
+    </item>
+    <item>
+      <title>Fonctions linéaires</title>
+      <link>/modules/fonctions-linéaires</link>
+      <description>Connaître les fonctions linéaires, tracer et utiliser leurs représentations.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/fonctions-linéaires</guid>
+    </item>
+    <item>
+      <title>Fonction carré</title>
+      <link>/modules/fonction-carré</link>
+      <description>Connaître la représentation de la fonction carré, tracer sa représentation.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/fonction-carré</guid>
+    </item>
+    <item>
+      <title>Fonctions affines</title>
+      <link>/modules/fonctions-affines</link>
+      <description>Connaître les fonctions affines, tracer et utiliser leurs représentations.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/fonctions-affines</guid>
+    </item>
+    <item>
+      <title>Concept de fonction</title>
+      <link>/modules/concept-de-fonction</link>
+      <description>Comprendre ce qu&#39;est une fonction et les notations liées.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/concept-de-fonction</guid>
+    </item>
+    <item>
+      <title>Déterminer l’équation d’une droite</title>
+      <link>/modules/déterminer-l’équation-d’une-droite</link>
+      <description>Savoir déterminer graphiquement et par le calcul l&#39;équation d&#39;une droite.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/déterminer-l’équation-d’une-droite</guid>
+    </item>
+    <item>
+      <title>Décomposition en produit de facteurs premiers</title>
+      <link>/modules/décomposition-en-produit-de-facteurs-premiers</link>
+      <description>Savoir décomposer un nombre en un produit de facteurs premiers.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/décomposition-en-produit-de-facteurs-premiers</guid>
+    </item>
+    <item>
+      <title>Division euclidienne</title>
+      <link>/modules/division-euclidienne</link>
+      <description>Connaître le vocabulaire de la division, savoir poser une division euclidienne.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/division-euclidienne</guid>
+    </item>
+    <item>
+      <title>Diviseurs communs</title>
+      <link>/modules/diviseurs-communs</link>
+      <description>Savoir trouver tous les diviseurs communs à deux nombres entiers.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/diviseurs-communs</guid>
+    </item>
+    <item>
+      <title>Distributivité double</title>
+      <link>/modules/distributivité-double</link>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/distributivité-double</guid>
+    </item>
+    <item>
+      <title>Critères de divisibilité</title>
+      <link>/modules/critères-de-divisibilité</link>
+      <description>Connaître et savoir utiliser les critères de divisibilités inférieurs à 10.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/critères-de-divisibilité</guid>
+    </item>
+    <item>
+      <title>Antécédant et image</title>
+      <link>/modules/antécédant-et-image</link>
+      <description>Antécédant et image d&#39;un nombre par une fonction.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/modules/antécédant-et-image</guid>
+    </item>
+    <item>
+      <title>Arithmétique</title>
+      <link>/3-troisième/arithmétique</link>
+      <description>Toutes les notions d&#39;arithmétique en classe de 3e.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/3-troisième/arithmétique</guid>
+    </item>
+    <item>
+      <title>Fonctions</title>
+      <link>/3-troisième/fonctions</link>
+      <description>Tout savoir sur les fonctions en classe de 3e.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/3-troisième/fonctions</guid>
+    </item>
+    <item>
+      <title>Calcul littéral</title>
+      <link>/3-troisième/calcul-littéral</link>
+      <description>Toutes les notions de calcul littéral en classe de 3e.</description>
+      <pubDate>Wed, 10 Jun 2026 17:19:01 +0200</pubDate>
+      <guid isPermaLink="true">/3-troisième/calcul-littéral</guid>
+    </item>
+  </channel>
+</rss>

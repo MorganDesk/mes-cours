@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "2e0bdb2a7d570b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "b692f61f4f38541b",
+        "type": "tabs",
+        "dimension": 43.75,
+        "children": [
+          {
+            "id": "b3075cd085cff940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "e13807c7cfa55784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Antécédant et image.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antécédant et image"
+            }
+          }
+        ]
+      },
+      {
+        "id": "318d156a2fd750e7",
+        "type": "tabs",
+        "dimension": 56.25,
+        "children": [
+          {
+            "id": "efa6c431486e579f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Identités remarquables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identités remarquables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "268bcc8acf1a9f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "2511e22fd699761b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9146bda1581697d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "346961ba175dae39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:fonction",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "99393f9219dbd6ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9cfa55ba8c4d614",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d36be77918b4a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c33aa4f902ae4190",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modules/Multiple et diviseur.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Multiple et diviseur"
+            }
+          },
+          {
+            "id": "554e26a8a476189d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modules/Multiple et diviseur.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Multiple et diviseur"
+            }
+          },
+          {
+            "id": "782cd8bc2b39bf37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "10778ba04ed86482",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "6ae1f5d42cd92878",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modules/Multiple et diviseur.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Multiple et diviseur"
+            }
+          },
+          {
+            "id": "932ab4bf6fbe06c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Modules/Identités remarquables.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriétés du fichier pour Identités remarquables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "efa6c431486e579f",
+  "lastOpenFiles": [
+    "Nouveau dossier",
+    "public/robots.txt",
+    "public/feed.xml",
+    "public/sitemap.xml",
+    "public/404.html",
+    "public/graph.html",
+    "public/graph.json",
+    "public/Inter-Bold.woff2",
+    "public/Inter-Regular.woff2",
+    "public/giscus-theme-dark.css",
+    "public/giscus-theme-light.css",
+    "public/tags/identités-twitter.png",
+    "public/tags/identités-og.png",
+    "public/tags/divisibilité-twitter.png",
+    "public/tags/divisibilité-og.png",
+    "public/tags/proportionnalité-twitter.png",
+    "public/tags/proportionnalité-og.png",
+    "public/tags/notation-twitter.png",
+    "public/tags/notation-og.png",
+    "public/tags/antécédant-twitter.png",
+    "public/tags/antécédant-og.png",
+    "Index.md",
+    "Modules/Distributivité double.md",
+    "Modules/Identités remarquables.md",
+    "3 Troisième/Calcul littéral.md",
+    "3 Troisième/Arithmétique.md",
+    "3 Troisième/Fonctions.md",
+    "Modules/Antécédant et image.md",
+    "Modules/Décomposition en produit de facteurs premiers.md",
+    "Modules/Déterminer l’équation d’une droite.md",
+    "Modules/Représentations d'une fonction.md",
+    "Modules/Plus Petit Multiple Commun (PPCM).md",
+    "Modules/Plus Grand Diviseur Commun (PGCD).md",
+    "Modules/Nombres premiers.md",
+    "Modules/Multiple et diviseur.md",
+    "Modules/Fraction irréductible.md",
+    "Modules/Fonctions linéaires.md",
+    "Modules/Fonctions affines.md",
+    "Modules/Fonction carré.md",
+    "Modules/Division euclidienne.md",
+    "Modules/Diviseurs communs.md",
+    "Modules/Critères de divisibilité.md",
+    "Modules/Concept de fonction.md",
+    "Templates/Template Module.md",
+    "3 Troisième.md",
+    "quartz/content/Modules/Multiple et diviseur.md",
+    "quartz/docs/Canvas.canvas"
+  ]
+}

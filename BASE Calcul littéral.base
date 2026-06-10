@@ -1,0 +1,11 @@
+properties:
+  file.name:
+    displayName: Titre du module
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - theme == "Calcul littéral"
+    order:
+      - file.name
