@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Equations du premier degré.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equations du premier degré"
+              "title": "README"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Modules/Equations du premier degré.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "Propriétés du fichier pour Equations du premier degré"
+              "title": "Propriétés du fichier pour README"
             }
           }
         ],
@@ -233,6 +233,9 @@
   },
   "active": "b3075cd085cff940",
   "lastOpenFiles": [
+    "Index.md",
+    "README.md",
+    "Modules/Equations du premier degré.md",
     "public/robots.txt",
     "public/feed.xml",
     "public/sitemap.xml",
@@ -243,7 +246,6 @@
     "public/Inter-Regular.woff2",
     "public/giscus-theme-dark.css",
     "public/giscus-theme-light.css",
-    "public/link-preview.js",
     "public/tags/image-twitter.png",
     "public/tags/image-og.png",
     "public/tags/reste-twitter.png",
@@ -255,9 +257,7 @@
     "public/tags/linéaire-twitter.png",
     "public/tags/linéaire-og.png",
     "Modules/Distributivité simple.md",
-    "Modules/Equations du premier degré.md",
     "3 Troisième/Calcul littéral.md",
-    "Index.md",
     "Modules/Identités remarquables.md",
     "Modules/Distributivité double.md",
     "3 Troisième/Arithmétique.md",
