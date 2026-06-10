@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Modules/Distributivité simple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Distributivité simple"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Modules/Identités remarquables.md"
+                "file": "Modules/Distributivité simple.md"
               },
               "icon": "lucide-info",
-              "title": "Propriétés du fichier pour Identités remarquables"
+              "title": "Propriétés du fichier pour Distributivité simple"
             }
           }
         ],
@@ -231,8 +231,12 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "efa6c431486e579f",
+  "active": "b3075cd085cff940",
   "lastOpenFiles": [
+    "3 Troisième/Calcul littéral.md",
+    "Modules/Distributivité simple.md",
+    "Index.md",
+    "Modules/Identités remarquables.md",
     "Nouveau dossier",
     "public/robots.txt",
     "public/feed.xml",
@@ -243,7 +247,6 @@
     "public/Inter-Bold.woff2",
     "public/Inter-Regular.woff2",
     "public/giscus-theme-dark.css",
-    "public/giscus-theme-light.css",
     "public/tags/identités-twitter.png",
     "public/tags/identités-og.png",
     "public/tags/divisibilité-twitter.png",
@@ -254,10 +257,7 @@
     "public/tags/notation-og.png",
     "public/tags/antécédant-twitter.png",
     "public/tags/antécédant-og.png",
-    "Index.md",
     "Modules/Distributivité double.md",
-    "Modules/Identités remarquables.md",
-    "3 Troisième/Calcul littéral.md",
     "3 Troisième/Arithmétique.md",
     "3 Troisième/Fonctions.md",
     "Modules/Antécédant et image.md",
