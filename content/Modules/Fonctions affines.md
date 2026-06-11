@@ -6,6 +6,8 @@ tags:
   - affine
   - droite
 theme: Fonctions
+niveaux:
+  - 3e
 draft: false
 ---
 # Fonctions affines
@@ -30,4 +32,4 @@ draft: false
 >Le point $B(2;3)$ appartient à la droite représentative.
 >- On trace la droite passant par les points A et B.
 
-![[Tracer 2x-1.svg]]
+![[Tracer 2x-1.png]]

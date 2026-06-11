@@ -6,6 +6,11 @@ tags:
   - multiple
   - diviseur
 theme: Arithmétique
+niveaux:
+  - 3e
+  - 4e
+  - 5e
+  - 6e
 draft: false
 ---
 # Multiple et diviseur

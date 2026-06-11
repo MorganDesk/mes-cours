@@ -6,6 +6,8 @@ tags:
   - image
   - antécédant
 theme: Fonctions
+niveaux:
+  - 3e
 draft: false
 ---
 # Antécédant et image

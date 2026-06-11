@@ -5,6 +5,10 @@ tags:
   - arithmétique
   - premier
 theme: Arithmétique
+niveaux:
+  - 3e
+  - 4e
+  - 5e
 draft: false
 ---
 # Nombres premiers

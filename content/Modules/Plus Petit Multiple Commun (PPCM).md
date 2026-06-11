@@ -5,6 +5,8 @@ tags:
   - arithmétique
   - PPCM
 theme: Arithmétique
+niveaux:
+  - 3e
 draft: false
 ---
 # Plus Petit Multiple Commun (PPCM)

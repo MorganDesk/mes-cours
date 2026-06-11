@@ -6,6 +6,8 @@ tags:
   - équation
   - droite
 theme: Fonctions
+niveaux:
+  - 3e
 draft: false
 ---
 # Déterminer l’équation d’une droite

@@ -7,6 +7,8 @@ tags:
   - développer
   - factoriser
 theme: Calcul littéral
+niveaux:
+  - 3e
 draft: false
 ---
 # Identités remarquables

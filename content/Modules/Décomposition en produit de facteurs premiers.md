@@ -5,6 +5,10 @@ tags:
   - arithmétique
   - décomposition
 theme: Arithmétique
+niveaux:
+  - 3e
+  - 4e
+  - 5e
 draft: false
 ---
 # Décomposition en produit de facteurs premiers

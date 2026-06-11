@@ -5,6 +5,8 @@ tags:
   - fonction
   - notation
 theme: Fonctions
+niveaux:
+  - 3e
 draft: false
 ---
 # Concept de fonction

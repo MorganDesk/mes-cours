@@ -4,16 +4,16 @@ views:
     filters:
       and:
         - file.inFolder("Modules")
+        - file.name != "index"
+        - file.ext != "base"
     order:
       - file.name
       - description
       - theme
       - draft
     sort:
-      - property: file.tags
+      - property: file.name
         direction: ASC
-      - property: file.ctime
-        direction: DESC
     columnSize:
       file.name: 156
       note.theme: 108

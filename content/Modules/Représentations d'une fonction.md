@@ -10,6 +10,8 @@ tags:
   - tableau
 draft: false
 theme: Fonctions
+niveaux:
+  - 3e
 ---
 # Représentations d'une fonction
 

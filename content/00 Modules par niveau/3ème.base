@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - niveaux.contains("3e")
+    order:
+      - file.name
+      - description

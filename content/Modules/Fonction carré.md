@@ -6,6 +6,8 @@ tags:
   - carré
   - représentation
 theme: Fonctions
+niveaux:
+  - 3e
 draft: false
 ---
 # Fonction carré

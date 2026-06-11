@@ -5,6 +5,8 @@ tags:
   - arithmétique
   - diviseur
 theme: Arithmétique
+niveaux:
+  - 3e
 draft: false
 ---
 # Diviseurs communs

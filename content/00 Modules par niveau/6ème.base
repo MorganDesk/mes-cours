@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - niveaux.contains("6e")
+    order:
+      - file.name
+      - description

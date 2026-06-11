@@ -5,6 +5,8 @@ tags:
   - arithmétique
   - PGCD
 theme: Arithmétique
+niveaux:
+  - 3e
 draft: false
 ---
 # Plus Grand Diviseur Commun (PGCD)

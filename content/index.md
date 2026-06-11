@@ -1,10 +1,10 @@
 ---
-title: Maths Morgan
+title: MorganDesk
 description: Ressources pour apprendre les mathématiques.
 draft: false
 ---
 # index
-Ce site est optimisé pour une utilisation sur ordinateur mais reste fonctionnel sur téléphone et tablette.
+Ce site est optimisé pour une utilisation sur ordinateur mais reste fonctionnel sur téléphone et tablette (en mode paysage de préférence).
 
 Sur ordinateur, passer votre curseur sur un lien pour avoir un aperçu de la page à laquelle il mène.
 # Comment utiliser ce site ?
@@ -12,7 +12,8 @@ Sur ordinateur, passer votre curseur sur un lien pour avoir un aperçu de la pag
 2. **Utilise la recherche** pour trouver une notion.
 3. **Pratique** avec les exercices et vérifie les corrigés.
 
-# Thèmes abordés en 3ème
-[[Arithmétique]]
-[[Calcul littéral]]
-[[Fonctions]]
+# Afficher tous les modules de :
+- [[3ème.base|Troisième]]
+- [[4ème.base|Quatrième]]
+- [[5ème.base|Cinquième]]
+- [[6ème.base|Sixième]]

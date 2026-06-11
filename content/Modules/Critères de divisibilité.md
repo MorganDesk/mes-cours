@@ -6,6 +6,11 @@ tags:
   - divisibilité
   - reste
 theme: Arithmétique
+niveaux:
+  - 3e
+  - 4e
+  - 5e
+  - 6e
 draft: false
 ---
 # Critères de divisibilité

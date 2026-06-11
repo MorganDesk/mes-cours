@@ -5,6 +5,9 @@ tags:
   - distributivité
   - développer
 theme: Calcul littéral
+niveaux:
+  - 4e
+  - 3e
 draft: true
 ---
 # Distributivité double

@@ -5,6 +5,11 @@ tags:
   - arithmétique
   - division
 theme: Arithmétique
+niveaux:
+  - 3e
+  - 4e
+  - 5e
+  - 6e
 draft: false
 ---
 # Division euclidienne

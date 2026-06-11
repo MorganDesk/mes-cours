@@ -6,6 +6,8 @@ tags:
   - proportionnalité
   - linéaire
 theme: Fonctions
+niveaux:
+  - 3e
 draft: false
 ---
 # Fonctions linéaires
@@ -21,6 +23,6 @@ draft: false
 >[!exemple] Exemple :
 >La fonction $g(x)=2x$ est linéaire de coefficient $a=2$.
 >- Son tableau de valeur est un tableau de proportionnalité de coefficient 2.
->- Sa représentation graphique est une droite passant par l’origine et par le point $A(1;2)$.
+>- Sa représentation graphique est une droite passant par l’origine et par le point $A(1;2)$ ($g(2)=2 \times 2=4$).
 
-![[Tracer 2x.svg]]
+![[Tracer 2x.png]]
