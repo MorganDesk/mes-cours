@@ -1,8 +1,8 @@
 ---
-title: "Equations du premier degré"
+title: Equations du premier degré
 description:
 tags:
-theme:
+theme: Calcul littéral
 draft: true
 ---
 # Equations du premier degré
